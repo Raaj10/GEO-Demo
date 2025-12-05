@@ -16,3 +16,4 @@ This demonstrates how websites can personalize content for different regions.
 - Real systems change currency, language, pricing, and offers based on location.
 
 - ## Live Demo (GitHub Pages)
+https://raaj10.github.io/GEO-Demo/
